@@ -169,3 +169,4 @@ with tab2:
         st_folium(map_, width=800, height=500)
     else:
         st.info("Enter at least one valid location to display the map.")
+
